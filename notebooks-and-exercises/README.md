@@ -14,4 +14,4 @@ and reinforce each predictive modeling technique covered in the curriculum.
 | `07_knn_naive_bayes.ipynb` | KNN and Naive Bayes classifiers |
 | `08_neural_networks.ipynb` | MLP Neural Networks and Ensemble models |
 
-> Rename i file dei tuoi notebook prima di caricarli se hanno nomi tipo `week3.ipynb`
+
