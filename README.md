@@ -22,8 +22,8 @@ from data preprocessing to ensemble models and neural networks.
 
 ## Repository Structure
 
-wildfire-prevention/   ← Group Project 2: ML system to predict wildfire intensity
-notebooks/             ← Individual learning notebooks developed during the course
+- wildfire-prevention/   ← Group Project 2: ML system to predict wildfire intensity
+- notebooks-and-exercises/             ← Individual learning notebooks developed during the course
 
 ## Featured Project
 
